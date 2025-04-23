@@ -1,2 +1,2 @@
 # mme
-mutlinational military exercises
+multinational military exercises
